@@ -1,0 +1,66 @@
+cd ,change current path to noun
+touch,make a file named noun
+cp,copy it to noun
+mv,move file with name noun from noun to noun
+cd ,change path to noun
+mv,rename noun to noun
+cat,show the content of noun
+mkdir,create directory named noun
+mv,move noun into noun
+rmdir,remove the directory named noun
+uncompress,compress the directory noun
+pwd,I am in which directory
+pwd,Where am I
+Ls,List all the files
+Ls,Which files I have in this folder
+Ls,Show me all the files in this folder
+Ls,Display all the files in this folder
+mkdir,Make a new directory
+mkdir,Generate a new folder
+Rmdir,Delete this directory
+Rmdir,Remove directory noun
+Clear,Clear the screen
+Clear,Remove everything from screen
+man,Tell me about noun
+man,I want to know about noun
+man,What is noun
+Help,Help me
+Help,I am lost
+history,past commands
+history,show my history
+history,previous instructions
+hostname,display hostname
+hostname,name of this machine
+who,who are connected to this machine
+who,display users
+passwd,change login
+passwd,change password
+tty,teletype terminals
+wc,number of words
+wc,count the words
+id,show user information
+whatis,brief help
+whatis,short description
+whoami,display username
+cd,change directory to noun
+pwd,print current directory
+ls,list current files and directories
+mkdir,make directory as noun
+rmdir,remove directory noun
+touch,create file
+touch,make file
+cp,copy file
+cp,make a copy of current file
+mv,move file
+mv,move this file
+rm,delete file
+rm,remove file
+rm,throw this file out
+rm,erase this file
+cat,show me contents of file
+cat,let me read file
+cat,what does this file say
+cat,show me this file 
+compress,tar it
+compress,zip it up
+compress,compress and store

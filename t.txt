@@ -1,0 +1,497 @@
+(lp0
+(lp1
+S'Create a new file'
+p2
+aS'make file'
+p3
+aF1.0
+aS'NEUTRAL'
+p4
+aI9974
+aa(lp5
+S'Two men are leaving the stage'
+p6
+aS'Mimes are performing on a stage'
+p7
+aF3.1
+aS'NEUTRAL'
+p8
+aI1552
+aa(lp9
+S'A man is wearing a purple shirt and black leather chaps and is posing for the camera'
+p10
+aS'A model is wearing a purple shirt and black leather chaps and is posing for the camera'
+p11
+aF4.4
+aS'ENTAILMENT'
+p12
+aI9393
+aa(lp13
+S'A man is playing a keyboard in a park'
+p14
+aS'A person is playing the keyboard'
+p15
+aF4.3
+aS'ENTAILMENT'
+p16
+aI1373
+aa(lp17
+S'A cat is playing with a small bottle'
+p18
+aS'A bottle is being licked by the cat'
+p19
+aF3.5
+aS'NEUTRAL'
+p20
+aI5664
+aa(lp21
+S'A poor man is being fed snakes and mice'
+p22
+aS'A snake is being fed a mouse by a man'
+p23
+aF2.3
+aS'NEUTRAL'
+p24
+aI1609
+aa(lp25
+S'Two white dogs and one brown dog are chasing a ball'
+p26
+aS'Two white dogs and one brown dog are chasing a toy'
+p27
+aF4.5
+aS'ENTAILMENT'
+p28
+aI7887
+aa(lp29
+S'A group of mothers in uniforms is standing near the children and one is kissing the gate'
+p30
+aS'A group of children in uniforms is standing at a gate and one is kissing the mother'
+p31
+aF3.3
+aS'NEUTRAL'
+p32
+aI315
+aa(lp33
+S'Two men are riding an orange raft on the shore'
+p34
+aS'Two men are getting off of an orange raft on the shore'
+p35
+aF4.2
+aS'NEUTRAL'
+p36
+aI6460
+aa(lp37
+S'There is no woman tapping her fingers'
+p38
+aS'A woman is tapping her fingers on a table'
+p39
+aF3.8
+aS'CONTRADICTION'
+p40
+aI2233
+aa(lp41
+S'A man is puking'
+p42
+aS'A man is eating'
+p43
+aF2.3
+aS'NEUTRAL'
+p44
+aI5733
+aa(lp45
+S'A young man is pushing a motocross bike up a dirt hill'
+p46
+aS'Some young bikers are getting a dirt bike up a sandy hill'
+p47
+aF4.0
+aS'NEUTRAL'
+p48
+aI8248
+aa(lp49
+S'A man is playing a wooden flute'
+p50
+aS'A wooden flute is being played by a man'
+p51
+aF5.0
+aS'ENTAILMENT'
+p52
+aI4154
+aa(lp53
+S'A person is stupidly throwing a cat at the ceiling'
+p54
+aS'A person is throwing a cat at the ceiling'
+p55
+aF4.4
+aS'ENTAILMENT'
+p56
+aI3765
+aa(lp57
+S'There is no monkey kicking a person'
+p58
+aS'A monkey is kicking a person'
+p59
+aF4.3
+aS'CONTRADICTION'
+p60
+aI4718
+aa(lp61
+S'A man is in a parking lot and is playing tennis against a large wall'
+p62
+aS'There is no man pointing at a car'
+p63
+aF1.5
+aS'NEUTRAL'
+p64
+aI327
+aa(lp65
+S'A girl is playing a flute'
+p66
+aS'A wind instrument is being played by a girl'
+p67
+aF4.3
+aS'ENTAILMENT'
+p68
+aI5313
+aa(lp69
+S'A man in a red jacket and khaki pants is walking through an American state'
+p70
+aS'A person in a red jacket and khaki pants is walking through an American state'
+p71
+aF4.7
+aS'ENTAILMENT'
+p72
+aI9368
+aa(lp73
+S'Two toddlers are eating on a really small wagon full of corndogs '
+p74
+aS'Two toddlers are eating corndogs in a wagon, which is really small'
+p75
+aF3.9
+aS'NEUTRAL'
+p76
+aI949
+aa(lp77
+S'An ice skating rink placed outdoors is full of people'
+p78
+aS"There aren't many people in the ice skating park"
+p79
+aF3.6
+aS'CONTRADICTION'
+p80
+aI874
+aa(lp81
+S'One man is talking to a girl with an internet camera'
+p82
+aS'The teens are talking to a boy and a girl with a webcam'
+p83
+aF3.1
+aS'NEUTRAL'
+p84
+aI2073
+aa(lp85
+S'A man is playing two keyboards'
+p86
+aS'There is no man playing two keyboards'
+p87
+aF2.4
+aS'CONTRADICTION'
+p88
+aI1541
+aa(lp89
+S'A man is playing the drum'
+p90
+aS'A man is practicing the drum'
+p91
+aF4.6
+aS'ENTAILMENT'
+p92
+aI3586
+aa(lp93
+S'The woman is pouring oil into a skillet'
+p94
+aS'A chimp is angrily kicking a target'
+p95
+aF1.0
+aS'NEUTRAL'
+p96
+aI1934
+aa(lp97
+S'A few men in a competition are running outside'
+p98
+aS'A few men are running competitions outside'
+p99
+aF3.9
+aS'NEUTRAL'
+p100
+aI718
+aa(lp101
+S'A man is hurriedly getting into a car in a garage'
+p102
+aS'A man is getting into a car in a garage'
+p103
+aF4.7
+aS'ENTAILMENT'
+p104
+aI2675
+aa(lp105
+S'Two white dogs are playing with a brown dog and a tennis ball'
+p106
+aS'Two white dogs are playing with a brown dog and a ball'
+p107
+aF4.7
+aS'ENTAILMENT'
+p108
+aI7889
+aa(lp109
+S'A man on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up'
+p110
+aS'The rider dressed in orange is driving a motorcycle on one wheel'
+p111
+aF2.8
+aS'NEUTRAL'
+p112
+aI9545
+aa(lp113
+S'Some people who play soccer are kicking a soccer ball into the goal'
+p114
+aS'A soccer player is scoring a goal'
+p115
+aF4.1
+aS'NEUTRAL'
+p116
+aI2755
+aa(lp117
+S'The men are fist fighting in a ring'
+p118
+aS'Two people are fist fighting in a ring'
+p119
+aF4.2
+aS'ENTAILMENT'
+p120
+aI3947
+aa(lp121
+S'Two women are dancing'
+p122
+aS'A couple of policewomen are singing karaoke'
+p123
+aF1.9
+aS'NEUTRAL'
+p124
+aI4579
+aa(lp125
+S'A woman is standing near three children'
+p126
+aS'There is no woman playing with two young boys at a park'
+p127
+aF2.1
+aS'NEUTRAL'
+p128
+aI6313
+aa(lp129
+S'A group of men is playing soccer on the beach'
+p130
+aS'A group of boys is playing soccer on the beach'
+p131
+aF4.4
+aS'NEUTRAL'
+p132
+aI4707
+aa(lp133
+S'A cat is playing with a watermelon'
+p134
+aS"The cat isn't playing with a watermelon"
+p135
+aF3.7
+aS'CONTRADICTION'
+p136
+aI2287
+aa(lp137
+S'A woman is talking on a telephone'
+p138
+aS'Two boys are talking on the phone'
+p139
+aF3.1
+aS'NEUTRAL'
+p140
+aI1214
+aa(lp141
+S'There is no one sitting in lawn chairs and reading books'
+p142
+aS'Two people in two chairs are reading'
+p143
+aF3.7
+aS'NEUTRAL'
+p144
+aI6752
+aa(lp145
+S'A surfer is riding the wave'
+p146
+aS'There is no man tying a shoe'
+p147
+aF1.0
+aS'NEUTRAL'
+p148
+aI9820
+aa(lp149
+S'A man is hurriedly getting into a car in a garage'
+p150
+aS'A man is getting into a car'
+p151
+aF4.1
+aS'ENTAILMENT'
+p152
+aI2678
+aa(lp153
+S'A boy is sitting in a seat'
+p154
+aS'A toddler is sitting down'
+p155
+aF4.2
+aS'NEUTRAL'
+p156
+aI8875
+aa(lp157
+S'The lady is peeling the potato'
+p158
+aS'There is no lady peeling the potato'
+p159
+aF2.7
+aS'CONTRADICTION'
+p160
+aI5357
+aa(lp161
+S'A man is playing a harp'
+p162
+aS'A man is harping on about a play'
+p163
+aF2.2
+aS'NEUTRAL'
+p164
+aI3424
+aa(lp165
+S'A dog is chasing another and is holding a piece of wood in its mouth'
+p166
+aS'Two dogs are running and carrying an object in their mouths'
+p167
+aF3.9
+aS'NEUTRAL'
+p168
+aI358
+aa(lp169
+S'A woman, who is old, is near a white dog'
+p170
+aS'A woman and a dog are sitting on a tree stump'
+p171
+aF3.1
+aS'NEUTRAL'
+p172
+aI780
+aa(lp173
+S'Two dogs on a lawn are playing with a plastic toy'
+p174
+aS'Two dogs are running and trying to catch a ball'
+p175
+aF4.2
+aS'NEUTRAL'
+p176
+aI9408
+aa(lp177
+S'A lady is wearing a black dress and is carrying a white cross'
+p178
+aS'A lady is dressed in black and is carrying a white cross'
+p179
+aF4.5
+aS'ENTAILMENT'
+p180
+aI9148
+aa(lp181
+S'A small group of people are standing and two are sitting on the sofa'
+p182
+aS'A group of five young adults are lounging indoors'
+p183
+aF3.8
+aS'NEUTRAL'
+p184
+aI8963
+aa(lp185
+S'A woman is taking two eggs out of a pot of water'
+p186
+aS'A woman is boiling eggs'
+p187
+aF3.9
+aS'NEUTRAL'
+p188
+aI3253
+aa(lp189
+S'A woman is slicing an octopus'
+p190
+aS'A man is playing the instrument'
+p191
+aF1.0
+aS'NEUTRAL'
+p192
+aI5378
+aa(lp193
+S'Some men are sawing'
+p194
+aS'There are no men sawing'
+p195
+aF3.9
+aS'CONTRADICTION'
+p196
+aI1415
+aa(lp197
+S'The boys are standing in front of the car, which is burning'
+p198
+aS'The boys are standing in front of the burning car'
+p199
+aF5.0
+aS'ENTAILMENT'
+p200
+aI3647
+aa(lp201
+S'A dog is near the red ball in the air'
+p202
+aS'A dog is far from the red ball in the air'
+p203
+aF3.6
+aS'CONTRADICTION'
+p204
+aI1046
+aa(lp205
+S'A pair of kids are sticking out blue and green colored tongues'
+p206
+aS'Two young boys are wearing hats and sticking their colored tongues out'
+p207
+aF4.0
+aS'NEUTRAL'
+p208
+aI9053
+aa(lp209
+S'An ice skating rink placed outdoors is full of people'
+p210
+aS'A lot of people are in an ice skating park'
+p211
+aF4.5
+aS'ENTAILMENT'
+p212
+aI876
+aa(lp213
+S'The player in purple, white and black is playing near the end of the field'
+p214
+aS'The player in purple, white and black is not playing near the end of the field'
+p215
+aF4.3
+aS'CONTRADICTION'
+p216
+aI6802
+aa(lp217
+S'A man is crouching and holding a camera'
+p218
+aS'There is no tiger cub making a sound'
+p219
+aF1.0
+aS'NEUTRAL'
+p220
+aI9922
+aa.

@@ -1,0 +1,59 @@
+touch,Create a new file,touch <filename>,1
+cp,Copy files,cp <source-filename> <destination-filename>,1
+mv,Move or Rename files or directories,mv <old-filepath> <new-filepath>,1
+rm,Remove files,rm <filname>,1
+cat,View complete file content,cat <filename>,1
+more,View file contents in sections determined by the size of the terminal,more <filename>,1
+less,View file contents in sections determined by the size of the terminal,less <filename>,1
+compress,Reduces the size of the file and adds the extension,compress <filename>,1
+uncompress/zcat,Restores a compressed file,uncompress <filename>,1
+cd,Change directory,cd <filename>,1
+pwd,Print working directory on the terminal,pwd,0
+ls,List the content of a directory,ls <directory-path>,1
+mkdir,Create a new directory,mkdir <directory-path>,1
+rmdir,Remove a directory if its empty,rmdir <directory-path>,1
+clear,Clears the terminal,clear,0
+echo,Write a string to standard output,echo <string>,1
+repeat,Repeats commands,repeat <number> <command>,1
+man,Displays the manual page for the selected command,man <command-name>,1
+help,Opens the default web browser in the andrew unix help web site,help,0
+rtfm,Displays the man page and help files ont he terminal,rtfm <command-name>,1
+history,Lists the commands typed during the session,history,0
+hostname,Displays the computer or server name on the terminal,hostname,0
+who,Displays who is on the system,who,0
+who am i,Displays the invoking user,who am i,0
+wc,Counts and displays the number of lines words and characters of a file,wc <filename>,1
+whatis,Displays the command description,whatis <command>,1
+id,Displays the user id and the group id of the invoking user,id,0
+tty,Displays users terminal name,tty,0
+passwd,Change the password,passwd,0
+df,Displays the amount of free and used disk space,df,0
+du,Displays the amount of disk usage,du,0
+quota,Displays the amount of disk space used,quota,0
+fs quota,Checking your percentage disk usage on your andrew account,fs quota,0
+fs la,lists the amount and percentage of disk usage on your andrew account,fs la,0
+fs la,lists access control lists for directories,fs la,0
+ps,Displays the active processes includes the process number process name and process time,ps,0
+kill,Terminates a process,kill <process-number>,1
+control z,Stops a current process,control z,0
+bg,Restarts process in the background,bg <pid>,1
+exec,Executes a command in place of the current shell which terminates,exec <command-name>,1
+lpr,Sends a job to the printer,lpr- P <printer-name> <file-name>,1
+lpq,Displays the printer queue including the job number,lpq -P <printer-name>,1
+lprm,Removes a job from the printer queue,lprm -P <printer-name> <job-number>,1
+print,Sends the job to the printer,print -P <printer-name> <file-name>,1
+env,Show all the environment variables,env,0
+printenv,Show all or specified environment variable,printenv,0
+setenv,Sets a particular environment variable,setenv <variable-name> <value>,1
+alias,Creates a shortcut for a command or series of commands,alias,0
+unalias,Removes the alias from its bound commands,unalias <shortcut>,1
+set,Sets variables in current shell,set <variable>=<value>,1
+unset,Removes value form the variable,unset <variable>,1
+stty,Set the option for a terminal,stty erase <desired-key> character erase,1
+stty,whole line erase,stty kill <desired-key>,1
+stty,word erase,stty werase <desired-key>,1
+set filec,If file is set any partially typed filename can be expanded to its full,set filec,0
+name,whenever esc key is pressed,set filec,0
+set prompt ,Sets the prompt of the terminal,set prompt=<value>,1
+chsh,Change Shell,chch <username> <newshell>,1
+source,Reads commands from a file used to reload an updated file into the current working shell,source <filename>,1

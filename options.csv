@@ -1,0 +1,16 @@
+cp,-r,recursively copy directory structures
+mv,-i,query user for confirmation
+rm,-r,recursively remove directory structures
+rm,-i,query user for confirmation
+ls,-a,list all files including those beginning with a “.”
+ls,-F,list files distinguishing directories/ executables
+ls,-R,recursively list subdirectories encountered
+ls,-l,list all files in long format
+history,-R,displays the list in reverse
+wc,-c,count character only
+quota,-v,Display user’s quota on all file systems
+wc,-l,count lines only
+wc,-w,count words only
+ps,-a,Display active processes in all terminals
+kill,-9,absolute kill
+lpr,-n,specifies the number of copies
